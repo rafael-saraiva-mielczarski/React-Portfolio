@@ -1,0 +1,194 @@
+.home {
+    display: flex;
+
+    .text-desc {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        .hello {
+            color: #f890e7;
+            font-size: 58px;
+            padding: 0 0 30px 0;
+            margin: 0;
+        }
+
+        .description {
+            color: white;
+            font-size: 24px;
+            line-height: 30px;
+            margin: 0;
+        }
+    }
+
+    .gif {
+        margin: 0;
+
+        .img-gif{
+            width: 500px;
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
+
+
+@media only screen and (max-width: 600px){
+    
+    .home {
+        display: flex;
+        flex-direction: column;
+    
+        .text-desc {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+    
+            .hello {
+                color: #f890e7;
+                font-size: 36px;
+                padding: 30px 5px;
+                margin: 0;
+                text-align: center;
+            }
+    
+            .description {
+                color: white;
+                font-size: 18px;
+                line-height: 30px;
+                margin: 0;
+                text-align: center;
+            }
+        }
+    
+        .gif {
+            display: flex;
+            // align-items: center;
+            justify-content: center;
+            margin: 0;
+    
+            .img-gif{
+                width: 350px;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px){
+    
+    .home {
+        display: flex;
+        flex-direction: column;
+    
+        .text-desc {
+            display: flex;
+            flex-direction: column;
+            // justify-content: center;
+    
+            .hello {
+                color: #f890e7;
+                font-size: 41px;
+                padding: 10px 5px;
+                margin: 0;
+            }
+    
+            .description {
+                color: white;
+                font-size: 18px;
+                line-height: 30px;
+                margin: 0;
+            }
+        }
+    
+        .gif {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+    
+            .img-gif{
+                width: 400px;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    .home {
+        display: flex;
+    
+        .text-desc {
+            display: flex;
+            flex-direction: column;
+            // justify-content: center;
+    
+            .hello {
+                color: #f890e7;
+                font-size: 35px;
+                padding: 20px 0;
+                margin: 0;
+            }
+    
+            .description {
+                color: white;
+                font-size: 18px;
+                line-height: 30px;
+                margin: 0;
+            }
+        }
+    
+        .gif {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+    
+            .img-gif{
+                width: 350px;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .home {
+        display: flex;
+    
+        .text-desc {
+            display: flex;
+            flex-direction: column;
+            // justify-content: center;
+    
+            .hello {
+                color: #f890e7;
+                font-size: 50px;
+                padding: 20px 0;
+                margin: 0;
+            }
+    
+            .description {
+                color: white;
+                font-size: 20px;
+                line-height: 30px;
+                margin: 0;
+            }
+        }
+    
+        .gif {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+    
+            .img-gif{
+                width: 450px;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    }
+}

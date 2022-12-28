@@ -1,0 +1,26 @@
+.a{
+    background-color: #3f3f3f;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #3f3f3f;
+
+        p{
+            font-size: 30px;
+            font-weight: bold;
+            color: #0bd3d3;
+            margin: 25px 0;
+        }
+
+        .menu-icon {
+            color: #0bd3d3;
+            cursor: pointer;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+.App {
+    background-color: black;
+}
+
+.link {
+    text-decoration: none;
+    color: #00D1C5;
+}
+
+.link:hover {
+    color: #00D1C5;
+}

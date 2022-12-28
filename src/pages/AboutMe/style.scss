@@ -1,0 +1,39 @@
+.experience {
+    padding-top: 25px;   
+}
+
+.myself {
+    margin: 0;
+
+    .myself-text {
+        color: white;
+        margin-bottom: 0;
+        font-size: 18px;
+        line-height: 28px;
+        margin: 20px 0;
+    }
+}
+
+h1 {
+    color: #f890e7;
+    font-size: 44px;
+}
+
+p {
+    color: white;
+    margin-bottom: 0;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 20px 0;
+}
+
+@media only screen and (max-width: 600px){
+    
+    h1 {
+        text-align: center;
+    }
+
+    p {
+        font-size: 15px;
+    }
+}
