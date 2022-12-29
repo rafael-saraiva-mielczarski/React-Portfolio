@@ -1,4 +1,13 @@
- https://rafael-saraiva-mielczarski.github.io/React-Portfolio/
+# This is my Front-End Portfolio!
+
+By clicking the link below you can check out how it turned out.
+- https://rafael-saraiva-mielczarski.github.io/React-Portfolio/
+
+# The purpose of this Portfolio:
+When I had the idea of building this Portfolio I invisioned it to serve as CV to show my abilities as a Front-End Developer.
+
+# Why React?
+I had prior experience in Angular, but I always wanted to learn React and seing the market movements and React being the number 1 most used Front-End framework I decided to build the project with it. I found it easier to understand than Angular.
 
 # Getting Started with Create React App
 
