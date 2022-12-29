@@ -16,7 +16,7 @@ import { Link } from 'react-router-dom';
               <MenuIcon fontSize='large' className="menu-icon" onClick={handleShow} />
               <Offcanvas style={{ backgroundColor: 'rgba(30, 30, 30, 0.8)', width: '200px'}} show={show} onHide={handleClose} {...props}>
                   <Offcanvas.Header>
-                    <Offcanvas.Title style={{ color: '#0bd3d3', fontSize: '25px'}}>Portfolio</Offcanvas.Title>
+                    <Offcanvas.Title style={{ color: '#0bd3d3', fontSize: '25px' }}>Portfolio</Offcanvas.Title>
                     <CloseIcon fontSize='large' style={{color: '#0bd3d3', cursor: 'pointer'}} onClick={handleClose} />
                   </Offcanvas.Header>
                   <hr  style={{ backgroundColor: 'white', margin: '6px 0'}}/>

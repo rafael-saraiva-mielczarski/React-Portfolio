@@ -66,7 +66,7 @@
 @media only screen and (max-width: 600px){
     .intro-text {
         color: white;
-        text-align: justify;
+        text-align: center;
         font-size: 16px;
         margin: 25px;
     }
@@ -78,13 +78,12 @@
 
         .card {
             width: 18rem;
-            outline: solid 4px #05c6c6;
-            outline-offset: -4px;
             box-shadow: 5px 5px 40px rgba(180, 169, 169, 0.6);
             transition: 1s all;
             margin-bottom: 60px;
             background-color: #535353;
-            border-radius: 20px;
+            border: 4px solid #05c6c6;
+            border-radius: 25px;
 
             .card-img {
                 max-width: 300px; 

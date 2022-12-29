@@ -41,7 +41,7 @@ const Projects = () => {
             icons: [ReactIcon, JavaScript, Figma, Bootstrap],
             image: PortfolioImg,
             gif: PortfolioGif,
-            githubLink: "",
+            githubLink: "https://github.com/rafael-saraiva-mielczarski/React-Portfolio",
         },
         {
             title: "Shop Recipe",
