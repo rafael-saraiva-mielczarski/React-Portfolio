@@ -24,7 +24,7 @@ const Header = () => {
         <div className='a'>
             <Container>
                 <div className='header'>
-                    <p>{title}</p>
+                    <h1>{title}</h1>
                     <div><SideMenu /></div>
                 </div>
             </Container>

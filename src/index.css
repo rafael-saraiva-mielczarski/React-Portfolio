@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
 html, body, #root {
   height: 100%;
   width: 100%;
@@ -6,14 +7,11 @@ html, body, #root {
   padding:0;
   background-color: black;
   overflow-x:hidden;
-  font-family: -apple-system, BlinkMacSystemFont,'Space Mono',  'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Roboto Mono', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Space Mono',
-    monospace;
+    font-family: 'Roboto Mono', monospace;
 }
