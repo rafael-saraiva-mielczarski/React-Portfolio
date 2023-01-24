@@ -9,12 +9,14 @@ import OldPorfolio from "../../assets/OldPortfolio.png";
 import PortfolioImg from "../../assets/PortfolioImg.png";
 import CalculatorImg from "../../assets/calculator.png";
 import WebDev from "../../assets/WebDev.png";
+import WordGuesser from "../../assets/WordGuesser.png";
 
 import CalculatorGif from "../../assets/gifs/Calculator.gif";
 import PortfolioGif from "../../assets/gifs/Portfolio.gif";
 import ShopRecipeGif from "../../assets/gifs/ShopRecipe.gif";
 import OldPortfolioGif from "../../assets/gifs/OldPortfolio.gif";
 import WebDevProject from "../../assets/gifs/WebDevProject.gif";
+import WordGuesserGif from "../../assets/gifs/WordGuesser.gif";
 
 import GitHub from "../../assets/icons/GitHub.png";
 import Angular from "../../assets/icons/angular.png";
@@ -42,6 +44,16 @@ const Projects = () => {
             image: PortfolioImg,
             gif: PortfolioGif,
             githubLink: "https://github.com/rafael-saraiva-mielczarski/React-Portfolio",
+        },
+        {
+            title: "Word Guesser",
+            description:
+                "My first interactive game, a guess the word game, built to practice some React fundamentals",
+            icons: [ReactIcon, JavaScript, CSS],
+            image: WordGuesser,
+            gif: WordGuesserGif,
+            githubLink:
+                "https://rafael-saraiva-mielczarski.github.io/Word-Guesser-Game/",
         },
         {
             title: "Shop Recipe",
