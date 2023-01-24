@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.33ce017c.css",
-    "main.js": "/React-Portfolio/static/js/main.3471ae6a.js",
+    "main.js": "/React-Portfolio/static/js/main.9f3c8fc5.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/WebDevProject.gif": "/React-Portfolio/static/media/WebDevProject.6a11ba4047b6ad1878a8.gif",
     "static/media/ShopRecipe.gif": "/React-Portfolio/static/media/ShopRecipe.156dbfa334c63352c8f2.gif",
     "static/media/Portfolio.gif": "/React-Portfolio/static/media/Portfolio.1fd9efbb426c1ca0f45d.gif",
+    "static/media/WordGuesser.gif": "/React-Portfolio/static/media/WordGuesser.9f8da8d348884a66d22a.gif",
     "static/media/OldPortfolio.gif": "/React-Portfolio/static/media/OldPortfolio.c5c8208432f82839f195.gif",
     "static/media/Dev.gif": "/React-Portfolio/static/media/Dev.97f2b188b8af96fb1758.gif",
     "static/media/OldPortfolio.png": "/React-Portfolio/static/media/OldPortfolio.2bac2a38c4222fcd1be4.png",
@@ -15,6 +16,7 @@
     "static/media/ShopRecipe.png": "/React-Portfolio/static/media/ShopRecipe.f3fb4f052c7fea106df1.png",
     "static/media/React.png": "/React-Portfolio/static/media/React.8a6fc0a24a800d1e0f4a.png",
     "static/media/calculator.png": "/React-Portfolio/static/media/calculator.ae7cc01a627dc4319471.png",
+    "static/media/WordGuesser.png": "/React-Portfolio/static/media/WordGuesser.f8304313341acead43f3.png",
     "static/media/postgre.png": "/React-Portfolio/static/media/postgre.a7fa39912c91e079e90b.png",
     "static/media/javascript.png": "/React-Portfolio/static/media/javascript.0b73afe7f5d8f305e638.png",
     "static/media/django.jpg": "/React-Portfolio/static/media/django.4c399895f677cd3bfbc8.jpg",
@@ -30,11 +32,11 @@
     "static/media/Bootstrap.png": "/React-Portfolio/static/media/Bootstrap.85f415b9c6afbfed7c76.png",
     "index.html": "/React-Portfolio/index.html",
     "main.33ce017c.css.map": "/React-Portfolio/static/css/main.33ce017c.css.map",
-    "main.3471ae6a.js.map": "/React-Portfolio/static/js/main.3471ae6a.js.map",
+    "main.9f3c8fc5.js.map": "/React-Portfolio/static/js/main.9f3c8fc5.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33ce017c.css",
-    "static/js/main.3471ae6a.js"
+    "static/js/main.9f3c8fc5.js"
   ]
 }
