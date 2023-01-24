@@ -30,3 +30,6 @@ VSCode extensions to help the coding process:
 8. If followed all the steps, you just need to run `npm start` to open the project locally, it probably will open on `http://localhost:3000`.
 
 ## Thank you for reading, if found any issues send me an email and I'll try to help you!
+
+### My figma mockup and first visualization of the project
+![Screenshot (106)](https://user-images.githubusercontent.com/100975439/211025837-96881f00-b1d2-4853-a0fc-2c67bc1db8e4.png)
